@@ -14,7 +14,8 @@ A instalação pode ser feita por dois caminhos descritos abaixo. Onde será nec
 3. em **Configuração da Tag** adicione a tag **HTML Personalizado**.
 4. Copie e cole o código [redirecionador-url.js](https://github.com/murjunior/tray-toff/blob/main/redirecionador-url.js).
 5. Em **acionamento** adicione "**All Pages**".
-6. Dê um nome a Tag e salve ela, após é só publicar as alterações, e ela já estará funcionando em toda sua loja.
+6. Dê um nome a Tag e salve ela.
+7. Por último, você precisa ir a página "Visão Geral" no menu a esquerda, para "Publicar" as alterações realizadas e funcionar.
 
 ### Via Tema | Loja Tray
 Em breve...
