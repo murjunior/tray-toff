@@ -8,10 +8,9 @@ function hasClass(el, clss) {
 window.onload = function() {
     var veirifi = document.querySelector(".veirificaclasse");
     if (hasClass(veirifi, "redirecionou")) {
-        var urlRedirect = document.getElementsByTagName("a")[0].href;
+        var urlRedirect = document.querySelector(".linkdosite").getAttribute("href");
         setTimeout(function() {
             window.location.href = urlRedirect;
-            console.log(urlRedirect);
         }, 1300);
         console.log('Tem o HTML, estamos redirecionando!')
     } else {
