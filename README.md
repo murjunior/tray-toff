@@ -12,7 +12,7 @@ A instalação pode ser feita por dois caminhos descritos abaixo. Onde será nec
 1. Acesse o [Google Tag Manager](https://tagmanager.google.com/) crie um container e um WorkSpace (_Caso já tenha só seguir para o passo 2_). [Como criar um Google Tag Manager Loja Tray](https://basedeconhecimento.tray.com.br/hc/pt-br/articles/6762108858139-Como-Integrar-o-Google-Tag-Manager-).
 2. Adicionar uma nova tag.
 3. em **Configuração da Tag** adicione a tag **HTML Personalizado**.
-4. Copie e cole o código [redirecionador-url.js](https://github.com/murjunior/tray-toff/blob/main/redirecionador-url.js).
+4. Copie e cole o código [redirecionador-url.html](https://github.com/murjunior/tray-toff/blob/main/redirecionador-url.html).
 5. Em **acionamento** adicione "**All Pages**".
 6. Dê um nome a Tag e salve ela.
 7. Por último, você precisa ir a página "Visão Geral" no menu a esquerda, para "Publicar" as alterações realizadas e funcionar.
