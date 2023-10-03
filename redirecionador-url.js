@@ -1,3 +1,4 @@
+<script>
 // Desenvolvido por Elevafoco
 // Site: www.elevafoco.com.br
 // Versão: 0.1
@@ -17,3 +18,4 @@ window.onload = function() {
         console.log('Não encontrei o HTML necessário.')
     }
 }
+</script>
